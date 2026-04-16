@@ -131,10 +131,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Gx boleh kasar lu Asw' ,MessageType.text);
 }
 else if (text == '$owner'){
-conn.sendMessage(id, 'Owner wa.me/+6281999637234' ,MessageType.text);
+conn.sendMessage(id, 'Owner: Yandie Madide <ayandadecoratia@gmail.com>' ,MessageType.text);
 }
 else if (text == '$creator'){
-conn.sendMessage(id, 'Creator wa.me/+6281999637234' ,MessageType.text);
+conn.sendMessage(id, 'Creator: Yandie Madide <ayandadecoratia@gmail.com>' ,MessageType.text);
 }
 else if (text == 'Didin'){
 conn.sendMessage(id, 'Aku BOT nya Didin' ,MessageType.text);
